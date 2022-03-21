@@ -127,7 +127,3 @@ while(GameMode):
     choose = int(input(GameQuestion))
     Game(choose)
     GameMode = int(input(AgainGame))
-
-
-
-
